@@ -1,1 +1,5 @@
-Explain what a branch is, in your own words
+A branch is a separate direction of commits that can be used to alter files or make changes without affecting the original, located in the 'master' branch.
+
+Switching branches will change the files in your working directory to those related to your current branch.
+
+If the changes you make in a branch are satisfactory, they can then be merged back with another branch to consolidate everything.
