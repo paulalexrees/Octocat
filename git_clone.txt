@@ -1,1 +1,6 @@
-Explain what git clone does, in your own words
+Git clone copies a repository locally into a new directory.
+It will create the repository folder by itself so git clone needs to be run from inside the project folder you intend to house the repo in, for example ~/Projects
+
+git clone https://github.com/paulalexrees/repo_to_be_cloned.git
+
+Running the above code from Projects would create a folder "repo_to_be_cloned" in your Projects folder.
