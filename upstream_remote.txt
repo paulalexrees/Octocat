@@ -1,1 +1,5 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The "upstream" remote is usually a repository that you have declared as a remote to your own repository.
+
+For example, when cloning a repo, it creates a master branch of that cloned repo whose upstream is origin/master.
+
+Information should flow "downstream" when being pulled by users, and pushed  back "upstream" to keep the upstream remote up to date.
